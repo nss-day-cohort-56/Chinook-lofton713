@@ -1,1 +1,3 @@
-SELECT DISTINCT BillingCountry FROM Invoice
+SELECT * 
+FROM Employee
+Where Title = "Sales Support Agent"
